@@ -18,14 +18,3 @@ console.log("Период равен " + period + " месяцев." + " Цел�
 
 let budgetDay = 450000/30; 
 console.log(budgetDay)
-
-
-
-
-
-
-
-
-
-
-
